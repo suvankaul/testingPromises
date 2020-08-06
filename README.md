@@ -1,2 +1,1 @@
-# testingPromises
-A small demo project for writing test cases using chai and mocha for testing Javascript promises.
+This project aims at providing insights on creating test cases for promises using mocha,chai and chai-as-promised libraries. 
